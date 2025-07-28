@@ -1,0 +1,93 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+.envrc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Output folders
+output/
+
+# pyinstaller
+*.spec
+dist/
+build/
+
+# mypy
+.mypy_cache/
+
+# pyre
+.pyre/
+
+# pytyp
+
+# files .py
+effect_algo_fibonacci.py
+eopp_top_25.py
+eopp_top_25_v_1.py
+eopp_top_50.py
+eopp_top_50.spec
+eopp_top_50_v1.01.spec
+eopp_top_50_v1.02.py
+eopp_top_50_v1.02.spec
+eopp_top_50_v1.spec
+main.py
+raw_logs.csv
+status_top.py
+eopp_top_log_analyzer.py
